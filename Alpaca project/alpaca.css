@@ -1,0 +1,54 @@
+h1{
+    color: blue;
+    font-family: monospace;
+}
+
+body{
+    background-color: rgb(224, 224, 17);
+}
+
+#image-links{
+    width: 300px;
+    
+}
+
+#image-links li{
+    width: 100px; display: inline-block;
+    background-color: rgb(255, 0, 0);
+    color:white;
+    border-radius: 20px;
+}
+
+.change-area{
+    text-align: center;
+}
+#Alpaca-photo{
+width:390px;
+height: 380px;
+padding-right: 30px;
+}
+
+.first-styling{
+    background-color: burlywood;
+   padding: 8px 9px 2px 25px;
+   align-items: center;
+   border-radius: 20px;
+}
+
+h2{
+    color: blue;
+   font-family: Arial, Helvetica, sans-serif;
+   align-self: center;
+} 
+
+.second-styling{
+    background-color: burlywood;
+    font-family: Arial, Helvetica, sans-serif;
+    align-self: center;
+    padding: 3px 9px 8px 35px;
+    border-radius: 20px;
+}
+h3{
+    color: darkblue;
+    align-self: center;
+}
